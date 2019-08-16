@@ -3,11 +3,8 @@
     "version": "1.0.0",
     "manifest_version": 2,
     "description": "현재페이지 이미지 다운로드",
-    "background": {
-        "scripts": [
-        ],
-        "persistent": false
-    },
+
     "browser_action": {
-    }
+        "default_icon": "extensionIcon.png"
+      }
 }
