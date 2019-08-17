@@ -5,6 +5,7 @@
     "description": "현재페이지 이미지 다운로드",
 
     "browser_action": {
-        "default_icon": "extensionIcon.png"
+        "default_icon": "extensionIcon.png",
+        "default_popup":"popup.html"
       }
 }
